@@ -1,0 +1,6 @@
+.cabecalho{
+    padding: 10px 20px;
+    background-color: aqua;
+    position: fixed;
+    min-width: 100vw;
+}
